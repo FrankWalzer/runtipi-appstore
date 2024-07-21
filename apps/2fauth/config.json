@@ -6,7 +6,7 @@
   "gid": 1000,
   "available": true,
   "exposable": true,
-  "dynamic_config": true,
+  "dynamic_config": false,
   "id": "2fauth",
   "tipi_version": 16,
   "version": "5.2.0",
